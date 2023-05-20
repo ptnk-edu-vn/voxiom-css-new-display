@@ -1,6 +1,8 @@
 # Voxiom CSS New Display
 New display of Voxiom. Nice view on homepage and increase game performance
 
+![VieFam Favicon](https://cdn.glitch.global/6d55a3f4-3820-4bf1-9052-290e9f819a11/download.png?v=1683594786703)
+
 ---
 
 ## How to use?
