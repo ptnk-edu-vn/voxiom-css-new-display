@@ -14,6 +14,12 @@ THank to Lightbulb8448 for the project of Better Voxiom.
   • Website: https://viefam.epizy.com/
 */
 
+.hrxbol {
+  display:none;
+}
+.yYlig {
+  display:none;
+}
 div {
 border-radius: 18px;
 }
@@ -167,3 +173,5 @@ span.sc-gCEpsI.sc-hzbjYJ.iQATOm.gZLiLw {
 	right: 20px;
 	bottom: 8px;
 }
+
+/* --- END -- */
